@@ -1,0 +1,11 @@
+Sun May 31 18:49:37 2020 Epoch 1, lr: 0.0100000, train loss: 3.87048, val loss: 3.33375, acc: 0.09880
+Sun May 31 18:50:57 2020 Epoch 2, lr: 0.0100000, train loss: 3.40716, val loss: 2.33237, acc: 0.30130
+Sun May 31 18:52:17 2020 Epoch 3, lr: 0.0100000, train loss: 3.01217, val loss: 60.59294, acc: 0.21614
+Sun May 31 18:53:38 2020 Epoch 4, lr: 0.0100000, train loss: 2.51350, val loss: 1.14347, acc: 0.69984
+Sun May 31 18:54:59 2020 Epoch 5, lr: 0.0100000, train loss: 2.30011, val loss: 0.69895, acc: 0.86130
+Sun May 31 18:56:18 2020 Epoch 6, lr: 0.0100000, train loss: 2.13015, val loss: 0.75192, acc: 0.86332
+Sun May 31 18:57:38 2020 Epoch 7, lr: 0.0100000, train loss: 1.98435, val loss: 0.99399, acc: 0.89598
+Sun May 31 18:58:59 2020 Epoch 8, lr: 0.0100000, train loss: 1.96794, val loss: 0.53712, acc: 0.93228
+Sun May 31 19:00:20 2020 Epoch 9, lr: 0.0100000, train loss: 1.82482, val loss: 0.39683, acc: 0.94962
+Sun May 31 19:01:40 2020 Epoch 10, lr: 0.0100000, train loss: 1.98653, val loss: 0.42090, acc: 0.93147
+Sun May 31 19:32:18 2020 Epoch 1, lr: 0.0100000, train loss: 3.94520, val loss: 865.47668, acc: 0.06625
